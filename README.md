@@ -16,9 +16,7 @@ Welcome to my repository containing beginner-level web development projects. Thi
 
    ```bash
    git clone https://github.com/your-username/beginner-web-dev-projects.git
-   ```
-  ```bash
-    cd project-folder-name
+   cd project-folder-name
   ```
 ## Technologies Used 💻
   -HTML
